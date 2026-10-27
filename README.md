@@ -97,6 +97,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 ## Design Tools
 
+- [Ideoy](https://ideoy.ai) - AI meme video remakes from one selfie (one selfie → this week's viral templates → MiniMax H3 → 9:16).
 > Not AI-powered, but valuable tools for UI/UX work.
 
 - [FontCrafter](https://arcade.pirillo.com/fontcrafter.html?utm_source=awesome-ai-tools-for-ui) - Turn your handwriting into an installable font in the browser. Exports OTF, TTF, WOFF2.
